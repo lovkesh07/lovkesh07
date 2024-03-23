@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lovkesh07" alt="lovkesh07" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [[https://hello-lovkesh.netlify.app](https://hello-lovkesh.netlify.app)](https://lovkesh-pro.vercel.app)
+- 👨‍💻 All of my projects are available at (https://lovkesh-pro.vercel.app)
 
 - 💬 Ask me about **front-end**
 
